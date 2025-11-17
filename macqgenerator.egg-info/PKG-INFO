@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: macqgenerator
+Version: 0.0.1
+Author: Sai Bhargav
+Author-email: saibhargav052000@gmail.com
+Requires-Dist: openai
+Requires-Dist: langchain==0.1.14
+Requires-Dist: langchain-community==0.0.38
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

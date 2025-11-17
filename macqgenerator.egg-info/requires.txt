@@ -4,4 +4,3 @@ langchain-community==0.0.38
 streamlit
 python-dotenv
 PyPDF2
--e .
