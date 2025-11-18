@@ -1,0 +1,2 @@
+[2025-11-17 22:02:51,842] 1038 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+[2025-11-17 22:02:52,303] 1038 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
